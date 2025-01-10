@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315786767001",
+    "project_id": "krishika24-c6096",
+    "storage_bucket": "krishika24-c6096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315786767001:android:d8bf8534528da9d9942608",
+        "android_client_info": {
+          "package_name": "com.krishika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_v1xCvjJTv1sicpOyW9-Y6m2wzsFyQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
