@@ -52,7 +52,7 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
 
     public void startPayment(int Amount) {
         Checkout checkout = new Checkout();
-        checkout.setKeyID("rzp_test_T7prmuLuNHa5Gn"); // Replace with your actual key
+                                        // Replace with your actual key
 
         try {
             JSONObject jsonObject = new JSONObject();
